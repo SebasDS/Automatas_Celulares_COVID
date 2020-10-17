@@ -12,6 +12,8 @@ b) Para compilar codigo de Processing en Python Mode:
   Clicks boton superior derecho (Java) > Añadir Modo... > Python Mode For Processing 3
 
   Click Install
+  
+  Click boton superior derecho (Java) > Python
 
 
 c) Para compilar codigo del programa:
