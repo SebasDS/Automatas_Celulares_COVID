@@ -4,30 +4,30 @@ Código en Processing Python Mode, para simular Autómatas Celulares relacionado
 
 a) Para compilar codigo en Processing descargar:
 
-https://processing.org/download/
+  https://processing.org/download/
 
 
 b) Para compilar codigo de Processing en Python Mode:
 
-Clicks boton superior derecho (Java) > Añadir Modo... > Python Mode For Processing 3
+  Clicks boton superior derecho (Java) > Añadir Modo... > Python Mode For Processing 3
 
-Click Install
+  Click Install
 
 
 c) Para compilar codigo del programa:
 
-Descargar y descomprimir
+  Descargar y descomprimir
 
-Abrir application.windows## > source > covid_AC_motion.pyde
+  Abrir application.windows## > source > covid_AC_motion.pyde
 
-Click Ejecutar
+  Click Ejecutar
 
-(Si se modifica el codigo, al guardar cambios estos surten efecto en el ejecutable covid_AC_motion.exe)
+  (Si se modifica el codigo, al guardar cambios estos surten efecto en el ejecutable covid_AC_motion.exe)
 
 
 d) Para correr programa sin necesidad de Processing:
 
-Descarga y descomprimir
+  Descarga y descomprimir
 
-Abrir application.windows## > covid_AC_motion.exe
+  Abrir application.windows## > covid_AC_motion.exe
 
